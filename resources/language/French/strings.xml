@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+<!-- SETTINGS Freedomotic -->
+        <string id="10000">Paramètres de freedomotic</string>
+        <string id="10001">Informations</string>
+        <string id="10002">IP du serveur freedomotic :</string>
+        <string id="10003">Port stomp:</string>
+		<string id="10005">ID du Périphérique:</string>
+		<string id="10004">DEBUG: (Loger les commandes dans le fichier XBMC.log):</string>
+
+<!-- XBMC Etat -->
+        <string id="11000">Evénements XBMC</string>
+	<string id="11001">Evénement d'Alimentation</string>
+	<string id="11002">Démarrage XBMC:</string>
+	<string id="11003">Arrêt XBMC:</string>
+	<string id="11004">Evénements Menus:</string>
+	<string id="11005">Acces au Menu Home:</string>
+	<string id="11006">Accès au Menu Paramètre:</string>
+	<string id="11007">Accès au Menu Picture:</string>
+	<string id="11008">Accès au Menu Météo:</string>
+	<string id="11009">Accès au Menu Program:</string>
+	<string id="11010">Accès au Menu Video:</string>
+	<string id="11011">Accès au Menu Audio:</string>
+	
+
+<!-- PLAYER Etat -->
+	<string id="12000">Evénements Lecteur</string>
+	<string id="12001">Lecteur Vidéo</string>
+	<string id="12002">Titre de la vidéo:</string>
+	<string id="12003">Démarrage de la vidéo:</string>
+	<string id="12004">Arrêt de la vidéo:</string>
+	<string id="12005">Pause de la vidéo:</string>
+	<string id="12006">Reprise de la vidéo:</string>
+	<string id="12007">Fin de la vidéo:</string>
+	<string id="12008">Lecteur Audio</string>
+	<string id="12009">Titre de la Musique:</string>
+	<string id="12010">Démarrage de la Musique:</string>
+	<string id="12011">Arrêt de la Musique:</string>
+	<string id="12012">Pause de la Musique:</string>
+	<string id="12013">Reprise de la Musique:</string>
+	<string id="12014">Fin de la Musique:</string>
+</strings>

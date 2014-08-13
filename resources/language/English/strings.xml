@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+<!-- SETTINGS Freedomotic -->
+        <string id="10000">freedomotic setting</string>
+        <string id="10001">Network</string>
+        <string id="10002">IP of freedomotic server :</string>
+        <string id="10003">Stomp port</string>
+		<string id="10005">ID Device:</string>
+		<string id="10004">DEBUG: (Print url to Xbmc log):</string>
+
+<!-- XBMC State -->
+        <string id="11000">XBMC state</string>
+	<string id="11001">app state</string>
+	<string id="11002">On:</string>
+	<string id="11003">Off:</string>
+	<string id="11004">Menu state</string>
+	<string id="11005">Menu home:</string>
+	<string id="11006">Menu setting:</string>
+	<string id="11007">Menu picture:</string>
+	<string id="11008">Menu weather:</string>
+	<string id="11009">Menu program:</string>
+	<string id="11010">Menu video:</string>
+	<string id="11011">Menu audio:</string>
+	
+
+<!-- PLAYER State -->
+	<string id="12000">Player state</string>
+	<string id="12001">Video</string>
+	<string id="12002">Video title:</string>
+	<string id="12003">Video started:</string>
+	<string id="12004">Video stopped:</string>
+	<string id="12005">Video paused:</string>
+	<string id="12006">Video resumed:</string>
+	<string id="12007">Video ended:</string>
+	<string id="12008">Audio</string>
+	<string id="12009">Music title:</string>
+	<string id="12010">Music started:</string>
+	<string id="12011">Music stopped:</string>
+	<string id="12012">Music paused:</string>
+	<string id="12013">Music resumed:</string>
+	<string id="12014">Music ended:</string>
+</strings>

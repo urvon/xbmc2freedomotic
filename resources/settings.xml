@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="10000">
+        <setting label="10001" type="lsep"/> 
+        <setting label="10002" id="host" type="text" default="127.0.0.1"/>
+        <setting label="10003" id="port" type="text" default="61666"/>
+		<setting label="10005" id="periph_id" type="text" default=""/>
+		<setting label="10004" id="debug_mod" type="labelenum" values="Yes|No" default="No"/>
+    </category>
+
+    <category label="11000">
+        <setting label="11001" type="lsep"/> 
+        <setting label="11002" id="xbmc_started" type="labelenum" values="Yes|No" default="No"/>
+        <setting label="11003" id="xbmc_ended" type="labelenum" values="Yes|No" default="No"/>
+        
+        <setting label="11004" type="lsep"/>
+        <setting label="11005" id="menu_home" type="labelenum" values="Yes|No" default="No"/>
+        <setting label="11006" id="menu_setting" type="labelenum" values="Yes|No" default="No"/>
+        <setting label="11007" id="menu_picture" type="labelenum" values="Yes|No" default="No"/>
+        <setting label="11008" id="menu_program" type="labelenum" values="Yes|No" default="No"/>
+        <setting label="11009" id="menu_weather" type="labelenum" values="Yes|No" default="No"/>
+        <setting label="11010" id="menu_video" type="labelenum" values="Yes|No" default="No"/>
+        <setting label="11011" id="menu_music" type="labelenum" values="Yes|No" default="No"/>
+    </category>
+
+    <category label="12000">
+        <setting label="12001" type="lsep"/> 
+        <!--<setting label="12002" id="video_title" type="labelenum" values="Yes|No" default="No"/>-->
+        <setting label="12003" id="video_started" type="labelenum" values="Yes|No" default="No"/>
+        <setting label="12004" id="video_stopped" type="labelenum" values="Yes|No" default="No"/>
+        <setting label="12005" id="video_paused" type="labelenum" values="Yes|No" default="No"/>
+        <setting label="12006" id="video_resumed" type="labelenum" values="Yes|No" default="No"/>
+        <setting label="12007" id="video_ended" type="labelenum" values="Yes|No" default="No"/>
+        
+        <setting label="12008" type="lsep"/> 
+        <!--<setting label="12009" id="audio_title" type="labelenum" values="Yes|No" default="No"/>-->
+        <setting label="12010" id="audio_started" type="labelenum" values="Yes|No" default="No"/>
+        <setting label="12011" id="audio_stopped" type="labelenum" values="Yes|No" default="No"/>
+        <setting label="12012" id="audio_paused" type="labelenum" values="Yes|No" default="No"/>
+        <setting label="12013" id="audio_resumed" type="labelenum" values="Yes|No" default="No"/>
+        <setting label="12014" id="audio_ended" type="labelenum" values="Yes|No" default="No"/>
+    </category>
+
+
+</settings>
